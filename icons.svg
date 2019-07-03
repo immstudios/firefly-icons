@@ -14,7 +14,7 @@
    viewBox="0 0 264.58333 264.58334"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="icons.svg">
   <defs
      id="defs2" />
@@ -26,18 +26,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748737"
-     inkscape:cx="45.037565"
+     inkscape:cx="-540.85092"
      inkscape:cy="639.78748"
      inkscape:document-units="px"
-     inkscape:current-layer="g913"
+     inkscape:current-layer="g153"
      showgrid="false"
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1005"
+     inkscape:window-width="1920"
+     inkscape:window-height="1159"
      inkscape:window-x="0"
-     inkscape:window-y="22"
+     inkscape:window-y="20"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -516,6 +516,42 @@
          x="72.831276"
          y="200.72903"
          style="fill:#cfd2d1;fill-opacity:1;stroke-width:4.94216299"></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g153"
+     inkscape:label="smallarrow-down"
+     style="display:inline">
+    <text
+       id="text151"
+       y="-70.152916"
+       x="104.65073"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.06752014px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;display:inline;fill:#cfd2d1;fill-opacity:1;stroke:none;stroke-width:3.52668858"
+       xml:space="preserve"
+       transform="matrix(0,0.89944649,-1.1117949,0,0,0)"><tspan
+         style="fill:#cfd2d1;fill-opacity:1;stroke-width:3.52668858"
+         y="-70.152916"
+         x="104.65073"
+         id="tspan149"
+         sodipodi:role="line"></tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="smallarrow-up"
+     id="g159"
+     inkscape:groupmode="layer">
+    <text
+       transform="matrix(0,-0.89944649,1.1117949,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.06752014px;line-height:1.25;font-family:'DejaVuSansMono Nerd Font';-inkscape-font-specification:'DejaVuSansMono Nerd Font';letter-spacing:0px;word-spacing:0px;display:inline;fill:#cfd2d1;fill-opacity:1;stroke:none;stroke-width:3.52668858"
+       x="-189.51166"
+       y="167.82564"
+       id="text157"><tspan
+         sodipodi:role="line"
+         id="tspan155"
+         x="-189.51166"
+         y="167.82564"
+         style="fill:#cfd2d1;fill-opacity:1;stroke-width:3.52668858"></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
